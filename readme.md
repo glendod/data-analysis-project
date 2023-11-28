@@ -13,7 +13,7 @@ streamlit run dashboard_bike.py
 ```
 
 ## link dashboard
-[dashboard](https://dashboardbikepy-jxvfyzt6w5ygc2g9rgp3vh.streamlit.app/)
+[dashboard](https://dashboardbikepy-fjfkxjkhhkvwe3xf8dpvux.streamlit.app/)
 
 ## documentation
 ![screenshot](https://github.com/glendod/data-analysis-project/blob/main/documentation/Screenshot%202023-11-28%20001101.png)
