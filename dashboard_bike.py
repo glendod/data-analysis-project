@@ -7,7 +7,7 @@ from datetime import datetime
 st.title('Dashboard Bike Sharing Dataset')
 
 # Load the CSV file
-df = pd.read_csv('https://raw.githubusercontent.com/glendod/p/main/project/hour.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/glendod/data-analysis-project/main/hour.csv')
 
 # Convert to datetime
 df['dteday'] = pd.to_datetime(df['dteday'])
