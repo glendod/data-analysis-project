@@ -16,5 +16,5 @@ streamlit run dashboard_bike.py
 [dashboard](https://dashboardbikepy-jxvfyzt6w5ygc2g9rgp3vh.streamlit.app/)
 
 ## documentation
-![screenshot](https://github.com/glendod/p/blob/main/project/documentation/Screenshot%202023-11-28%20001101.png)
+![screenshot](https://github.com/glendod/data-analysis-project/blob/main/documentation/Screenshot%202023-11-28%20001101.png)
 
